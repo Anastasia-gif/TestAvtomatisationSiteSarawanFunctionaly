@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExitFromPersonalArea" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-12T17:03:31" hostname="nast" time="2.655">
+  <properties/>
+  <testcase name="TestLogOutOfPersonalAccount()" classname="ExitFromPersonalArea" time="2.655"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 28780
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1686589414,082][WARNING]: Processing messages while being disconnected
+[1686589414,088][SEVERE]: Unable to receive message from renderer
+]]></system-err>
+</testsuite>
